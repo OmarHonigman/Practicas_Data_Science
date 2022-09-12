@@ -16,5 +16,7 @@ Conforme avanza las clases se iran agregando mas notebooks, y hasta la fecha se 
 -	Primera entrega del proyecto final
 - Segunda entrega del proyecto final
 - Avance de la tercera entrega
+- Carpeta con el trabajo finalizado
 
 Nuestro objetivo final es practicar, aprender y poder mejorar en el área de Data Science.
+
